@@ -2,8 +2,6 @@
 
 **Notes App** is a Full Stack Application built using the **MERN Stack** (MongoDB, Express, React, Node.js). This is a POC for Bornov Technologies
 
-[Application Link]()
-
 ### 🔧 Frontend
 
 - Built with **React**.
@@ -17,12 +15,6 @@
 
 - Used **MongoDB** as the database.
 - Integrated **Mongoose** as the ODM to model and interact with the data.
-
-### 🚀 Deployment
-
-- Deployed using **Microsoft Azure**:
-  - The **Express backend** is hosted on **Azure App Service**.
-  - The **React frontend** is deployed via **Azure Static Web Apps**.
 
 
 
