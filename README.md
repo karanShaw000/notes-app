@@ -2,6 +2,8 @@
 
 **Notes App** is a Full Stack Application built using the **MERN Stack** (MongoDB, Express, React, Node.js). This is a POC for Bornov Technologies
 
+[Deployed in azure](https://blue-river-01a3c6200.6.azurestaticapps.net/)
+
 ### 🔧 Frontend
 
 - Built with **React**.
